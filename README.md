@@ -8,8 +8,16 @@ You can find two versions:
 
 Both extensions work the same.
 
+---
+
 # Notice
 
 This repo is still a W.I.P. The extension will be have continuous updates in the future and may include additional features as need demands.
 
 With that said, the **MVP** of this extension is complete. Which is copying all tab URLs to your clipboard.
+
+---
+
+# To Do
+
+- Officially submit extensions to Firefox and Chrome extension marketplace

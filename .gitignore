@@ -114,6 +114,8 @@ dist
 .fusebox/
 
 # DynamoDB Local files
+.DS_Store
+
 .dynamodb/
 
 # TernJS port file
