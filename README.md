@@ -21,7 +21,7 @@ With that said, the **MVP** of this extension is complete, which is copying all 
 # To Do
 
 - Officially submit extensions to Firefox and Chrome extension marketplace
-- Add a extension button for quicker copying
+- Add an extension button for quicker copying
 - Ability to copy as JSON
 - Ability to copy as Markdown
 - Include options page for further customizations
