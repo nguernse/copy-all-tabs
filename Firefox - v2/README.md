@@ -8,11 +8,11 @@ A browser extension to copy all tab URLs in the active browser window.
 
 ## Installation
 
-> ℹ️ This does not work for now. You can load the add-on via the Debugging instructions
+> ℹ️ This does not work for at the moment. You can load the add-on via the Debugging instructions
 
 1. Open Firefox
 2. Navigate to `about:addons`, or click `Add-ons and themes` in the settings menu
-3. Click the cog icon at the top to open up a menu
+3. Click the cog icon at the top to open up the dropdown menu
 4. Select `Install Add-on from File...`
 5. Select the zipped file of the `Firefox - v2` directory
 6. You are now ready to use Copy All Tabs (CAT *meow*)
